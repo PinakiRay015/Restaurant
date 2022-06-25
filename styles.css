@@ -211,6 +211,9 @@ body
     background-color: #83c5be;
     cursor: pointer;
     border: none;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
     border-radius: 12px;
     
 }
@@ -253,8 +256,8 @@ body
 
 .container header a:hover
 {
-    background: linear-gradient(90deg, hsla(350, 73%, 44%, 1) 0%, hsla(274, 65%, 12%, 1) 100%);
-    transition: 0.5s;
+    background: linear-gradient(90deg, hsla(170, 63%, 32%, 1) 1%, hsla(141, 96%, 9%, 1) 100%);
+    transition: 0.8s;
 }
 
 
