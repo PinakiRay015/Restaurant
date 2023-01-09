@@ -35,7 +35,7 @@ body
 #sec2
 {
     grid-area: g2;
-    background-image: url(/img/bg1.jpg);
+    background-image: url(img/bg1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 1000px;
@@ -103,7 +103,7 @@ body
 #sec4
 {
     grid-area: g4;
-    background-image: url(/img/bg2.jpg);
+    background-image: url(img/bg2.jpg);
     height: 800px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ body
 #sec5
 {
     grid-area: g5;
-    background-image: url(/img/bg3.jpg);
+    background-image: url(img/bg3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 900px;
